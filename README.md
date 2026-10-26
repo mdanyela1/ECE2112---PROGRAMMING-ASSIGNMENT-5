@@ -164,22 +164,4 @@ norm(A*x_inv - b)
 
 ---
 
-## Submission Checklist
 
-- [ ] Name and section included in the script comments.
-- [ ] Problem A and Problem B clearly labeled.
-- [ ] All three transpose expressions displayed for both matrices.
-- [ ] All three transpose questions answered in MATLAB comments.
-- [ ] Inverse method implemented correctly.
-- [ ] Cramer's Rule implemented correctly.
-- [ ] Determinant and both norm checks displayed.
-- [ ] MATLAB script runs without errors.
-
----
-
-## Information
-
-**Course:** ECE 2112 – Advanced Computer Programming and Algorithms  
-**Experiment:** 5 – Introduction to MATLAB Programming  
-**Submitted by:** Maria Daniela C. Sacaben  
-**Section:** 2ECE-A
